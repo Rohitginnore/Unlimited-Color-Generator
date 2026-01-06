@@ -19,6 +19,7 @@ A simple JavaScript project that changes the background color continuously with 
 <img width="1873" height="915" alt="image" src="https://github.com/user-attachments/assets/d4f28a13-0981-4f49-bbd9-7b3dc6ec6a0a" />
 
 
+ Live - Demo :- [https://rohitginnore.github.io/Unlimited-Color-Generator/]
 
 ## 💡 How It Works
 1. Click on the **Start** button — the background color will start changing randomly.
